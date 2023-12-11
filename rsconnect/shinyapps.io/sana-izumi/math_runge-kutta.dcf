@@ -1,0 +1,10 @@
+name: math_runge-kutta
+title:
+username: sana-izumi
+account: sana-izumi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10771207
+bundleId: 8034772
+url: https://sana-izumi.shinyapps.io/math_runge-kutta/
+version: 1
