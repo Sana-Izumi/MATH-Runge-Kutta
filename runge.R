@@ -1,3 +1,4 @@
+
 f = function(x,y){-2*x-y}
 h = 0.1; x0 = 0; y0 = -1
 k1 = h*f(x0,y0); k2 = h*f(x0 + 0.5*h, y0 + 0.5*k1)
@@ -33,7 +34,7 @@ runge_kutta = function(f,x0,y0,xend,h){
 x0 = 0
 y0 = -1
 xend = 0.2
-h = 0.01
+h = 0.1
 
 # Runge-Kutta calculation
 results = runge_kutta(f, x0, y0, xend, h)
